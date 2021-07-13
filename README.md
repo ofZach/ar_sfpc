@@ -38,5 +38,13 @@ demos made for the [Getting Started in Augmented Reality](https://sfpc.io/cocoon
         face-behavior
       </a>
     </td>
+    <td>
+      <a href="./sparkArDemos/faceTracking/face-angle">
+        <img src="./sparkArDemos/faceTracking/face-angle/demo.gif" width="256" /><br />
+        face-angle
+      </a>
+    </td>
+    
+    
   </tr>
 </table>
