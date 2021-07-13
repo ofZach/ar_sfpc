@@ -44,7 +44,11 @@ demos made for the [Getting Started in Augmented Reality](https://sfpc.io/cocoon
         face-angle
       </a>
     </td>
-    
-    
+    <td>
+      <a href="./sparkArDemos/faceTracking/body-triangles">
+        <img src="./sparkArDemos/faceTracking/body-triangles/demo.gif" width="256" /><br />
+        body-triangles
+      </a>
+    </td>
   </tr>
 </table>
