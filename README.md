@@ -1,4 +1,5 @@
-#getting situated in AR
+
+# getting situated in AR
 
 
 demos made for the [Getting Started in Augmented Reality](https://sfpc.io/cocoon/programs/#augmented-reality) class.  Created by [Edgardo Avilés-López](https://github.com/eaviles) and Zach Lieberman 
