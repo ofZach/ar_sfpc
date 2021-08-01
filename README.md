@@ -52,3 +52,38 @@ demos made for the [Getting Started in Augmented Reality](https://sfpc.io/cocoon
     </td>
   </tr>
 </table>
+
+
+## PlaneTracking
+<table cellpadding="0" cellspacing="20" border="0">
+  <tr>
+  <td>
+    <a href="./sparkArDemos/planeTracking/simplePlaneTracker">
+      <img src="./sparkArDemos/planeTracking/simplePlaneTracker/demo.gif" width="256" /><br />
+      face-simple
+    </a>
+  </td>
+  
+  <td>
+    <a href="./sparkArDemos/planeTracking/planeDistance">
+      <img src="./sparkArDemos/planeTracking/planeDistance/demo.gif" width="256" /><br />
+      face-simple
+    </a>
+  </td>
+  
+  <td>
+    <a href="./sparkArDemos/planeTracking/makeObjectsInSpace">
+      <img src="./sparkArDemos/planeTracking/makeObjectsInSpace/demo.gif" width="256" /><br />
+      face-simple
+    </a>
+  </td>
+  
+  <td>
+    <a href="./sparkArDemos/planeTracking/drawing">
+      <img src="./sparkArDemos/planeTracking/drawing/demo.gif" width="256" /><br />
+      face-simple
+    </a>
+  </td>
+   
+  </tr>
+</table>
