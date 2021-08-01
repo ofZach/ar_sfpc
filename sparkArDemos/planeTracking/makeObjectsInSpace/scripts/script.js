@@ -1,6 +1,5 @@
 // How to load in modules
 const Scene = require('Scene');
-const FaceTracking = require('FaceTracking');
 const Diagnostics = require('Diagnostics');
 const Materials = require('Materials');
 const TouchGestures = require('TouchGestures');
